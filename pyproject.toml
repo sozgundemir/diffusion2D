@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+
+[project]
+name = "diffusion2D_sod"
+description = "2D thermal diffusion simmulation"
+readme = "README.md"
+requires-pthon = ">=3.6"
+keywords = ["2D Thermal simulation"]
+classifiers = [
+    "Programming Language :: Python :: 3"
+]
+dependencies = [
+    "requests",
+    "matplotlib",
+    "numpy",
+    'importlib-metadata; python_version<"3.8"',
+]
+
+
+
+dynamic = ["0.0.1"]
