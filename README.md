@@ -23,6 +23,8 @@ The following Python tools:
 
 ## Running this package
 
-Import the 
+This part will be added later.
 
 ## Citing
+
+There is no need to cite any paper while using this package.
